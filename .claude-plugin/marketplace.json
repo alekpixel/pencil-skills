@@ -1,0 +1,11 @@
+{
+  "name": "pencil-skills",
+  "owner": { "name": "alekpixel" },
+  "plugins": [
+    {
+      "name": "pencil-skills",
+      "source": "./",
+      "description": "pencil-use, pencil-generate-design and pencil-generate-library: design screens and design systems in Pencil (pen.dev) from Claude Code."
+    }
+  ]
+}

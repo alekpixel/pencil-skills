@@ -1,0 +1,10 @@
+{
+  "name": "pencil-skills",
+  "version": "0.1.0",
+  "description": "Three skills for designing in Pencil (pen.dev) through its MCP server: the calling rules, screens from code or a description, and design systems built in the right order.",
+  "author": { "name": "alekpixel" },
+  "homepage": "https://github.com/alekpixel/pencil-skills",
+  "repository": "https://github.com/alekpixel/pencil-skills",
+  "license": "MIT",
+  "keywords": ["design", "pencil", "pen.dev", "mcp", "design-system", "skills"]
+}
